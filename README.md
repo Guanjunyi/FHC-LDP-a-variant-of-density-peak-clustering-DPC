@@ -1,6 +1,6 @@
 # FHC-LDP: Fast hierarchical clustering of local density peaks via an association degree transfer method
 
-which is published in Neurocomputing 2021 Doi:10.1016/j.neucom.2021.05.071
+which is published in Neurocomputing, 2021. Doi:10.1016/j.neucom.2021.05.071
 
 In this work, we introduce a fast hierarchical clustering of local density peaks via an association degree transfer method (FHC-LDP) which first fast identifies local density peaks as sub-cluster centers to form sub-clusters and then uses a hierarchical clustering method to merge sub-clusters into final clusters optimally in global. The main contributions of this paper are:
 
